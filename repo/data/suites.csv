@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1619","AddToCartTC","Default Suite","Thu Aug 07 02:51:23 EET 2025","passed","Thu Aug 07 02:51:25 EET 2025","Tests.HomeTest","POM","Tests.HomeTest","AddToCartTC"

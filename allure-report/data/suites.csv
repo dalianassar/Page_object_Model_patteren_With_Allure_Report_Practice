@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1491","ValidloginTc","Default Suite","Sun Aug 10 00:45:33 EET 2025","passed","Sun Aug 10 00:45:34 EET 2025","Tests.LoginTest","POM","Tests.LoginTest","ValidloginTc"
